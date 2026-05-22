@@ -89,8 +89,6 @@ Microsoft Power BI Desktop (latest version recommended)
 Basic understanding of Power BI interface
 Familiarity with business intelligence concepts
 Installation
-Clone this repository:
-git clone https://github.com/yourusername/creo-technologies-dashboard.git
 Navigate to the dashboard folder:
 cd creo-technologies-dashboard/dashboard
 Open the .pbix file in Power BI Desktop
